@@ -1,9 +1,5 @@
 # Debian Server Setup
 
-## Hardware
-ThinkPad X250, 8GB RAM
+This serves as living documentation for my personal server setup for my homelab, hosted on my thinkpad x250 machine.
 
-## Installation
-- Debian 12 netinst (headless)
-- WiFi configured during install (WPA2)
-- Minimal install: SSH + standard utils only
+Right now, it is pretty much bare bones, however my personal website is soon to be hosted on it.
